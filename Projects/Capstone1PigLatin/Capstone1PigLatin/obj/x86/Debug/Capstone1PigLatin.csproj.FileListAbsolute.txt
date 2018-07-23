@@ -1,0 +1,6 @@
+/Users/samanthamazzola/Projects/Capstone1PigLatin/Capstone1PigLatin/obj/x86/Debug/Capstone1PigLatin.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Projects/Capstone1PigLatin/Capstone1PigLatin/obj/x86/Debug/Capstone1PigLatin.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Projects/Capstone1PigLatin/Capstone1PigLatin/bin/Debug/Capstone1PigLatin.exe
+/Users/samanthamazzola/Projects/Capstone1PigLatin/Capstone1PigLatin/bin/Debug/Capstone1PigLatin.pdb
+/Users/samanthamazzola/Projects/Capstone1PigLatin/Capstone1PigLatin/obj/x86/Debug/Capstone1PigLatin.exe
+/Users/samanthamazzola/Projects/Capstone1PigLatin/Capstone1PigLatin/obj/x86/Debug/Capstone1PigLatin.pdb

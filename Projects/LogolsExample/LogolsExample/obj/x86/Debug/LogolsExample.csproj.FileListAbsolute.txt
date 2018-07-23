@@ -1,0 +1,6 @@
+/Users/samanthamazzola/Projects/LogolsExample/LogolsExample/obj/x86/Debug/LogolsExample.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Projects/LogolsExample/LogolsExample/obj/x86/Debug/LogolsExample.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Projects/LogolsExample/LogolsExample/bin/Debug/LogolsExample.exe
+/Users/samanthamazzola/Projects/LogolsExample/LogolsExample/bin/Debug/LogolsExample.pdb
+/Users/samanthamazzola/Projects/LogolsExample/LogolsExample/obj/x86/Debug/LogolsExample.exe
+/Users/samanthamazzola/Projects/LogolsExample/LogolsExample/obj/x86/Debug/LogolsExample.pdb

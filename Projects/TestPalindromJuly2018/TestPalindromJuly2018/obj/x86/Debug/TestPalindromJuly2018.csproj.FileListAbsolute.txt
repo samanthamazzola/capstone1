@@ -1,0 +1,6 @@
+/Users/samanthamazzola/Projects/TestPalindromJuly2018/TestPalindromJuly2018/bin/Debug/TestPalindromJuly2018.exe
+/Users/samanthamazzola/Projects/TestPalindromJuly2018/TestPalindromJuly2018/bin/Debug/TestPalindromJuly2018.pdb
+/Users/samanthamazzola/Projects/TestPalindromJuly2018/TestPalindromJuly2018/obj/x86/Debug/TestPalindromJuly2018.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Projects/TestPalindromJuly2018/TestPalindromJuly2018/obj/x86/Debug/TestPalindromJuly2018.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Projects/TestPalindromJuly2018/TestPalindromJuly2018/obj/x86/Debug/TestPalindromJuly2018.exe
+/Users/samanthamazzola/Projects/TestPalindromJuly2018/TestPalindromJuly2018/obj/x86/Debug/TestPalindromJuly2018.pdb

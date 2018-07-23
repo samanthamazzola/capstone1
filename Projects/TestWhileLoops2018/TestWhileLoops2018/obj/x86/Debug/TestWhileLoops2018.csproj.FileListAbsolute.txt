@@ -1,0 +1,6 @@
+/Users/samanthamazzola/Projects/TestWhileLoops2018/TestWhileLoops2018/bin/Debug/TestWhileLoops2018.exe
+/Users/samanthamazzola/Projects/TestWhileLoops2018/TestWhileLoops2018/bin/Debug/TestWhileLoops2018.pdb
+/Users/samanthamazzola/Projects/TestWhileLoops2018/TestWhileLoops2018/obj/x86/Debug/TestWhileLoops2018.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Projects/TestWhileLoops2018/TestWhileLoops2018/obj/x86/Debug/TestWhileLoops2018.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Projects/TestWhileLoops2018/TestWhileLoops2018/obj/x86/Debug/TestWhileLoops2018.exe
+/Users/samanthamazzola/Projects/TestWhileLoops2018/TestWhileLoops2018/obj/x86/Debug/TestWhileLoops2018.pdb

@@ -1,0 +1,6 @@
+/Users/samanthamazzola/Projects/Songs/Songs/obj/x86/Debug/Songs.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Projects/Songs/Songs/obj/x86/Debug/Songs.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Projects/Songs/Songs/bin/Debug/Songs.exe
+/Users/samanthamazzola/Projects/Songs/Songs/bin/Debug/Songs.pdb
+/Users/samanthamazzola/Projects/Songs/Songs/obj/x86/Debug/Songs.exe
+/Users/samanthamazzola/Projects/Songs/Songs/obj/x86/Debug/Songs.pdb

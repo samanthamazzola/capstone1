@@ -1,0 +1,11 @@
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/bin/Debug/netcoreapp2.0/LogicPractice.deps.json
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/bin/Debug/netcoreapp2.0/LogicPractice.runtimeconfig.json
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/bin/Debug/netcoreapp2.0/LogicPractice.runtimeconfig.dev.json
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/bin/Debug/netcoreapp2.0/LogicPractice.dll
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/bin/Debug/netcoreapp2.0/LogicPractice.pdb
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/obj/Debug/netcoreapp2.0/LogicPractice.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/obj/Debug/netcoreapp2.0/LogicPractice.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/obj/Debug/netcoreapp2.0/LogicPractice.AssemblyInfoInputs.cache
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/obj/Debug/netcoreapp2.0/LogicPractice.AssemblyInfo.cs
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/obj/Debug/netcoreapp2.0/LogicPractice.dll
+/Users/samanthamazzola/Projects/LogicPractice/LogicPractice/obj/Debug/netcoreapp2.0/LogicPractice.pdb

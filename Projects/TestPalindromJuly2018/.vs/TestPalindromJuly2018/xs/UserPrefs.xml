@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A248FD20-5DF2-45FA-B313-D6C09CFE8587}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestPalindromJuly2018/Program.cs">
+    <Files>
+      <File FileName="TestPalindromJuly2018/Program.cs" Line="21" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestPalindromJuly2018 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

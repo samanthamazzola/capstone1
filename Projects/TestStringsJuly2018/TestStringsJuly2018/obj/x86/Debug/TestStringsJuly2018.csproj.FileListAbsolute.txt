@@ -1,0 +1,6 @@
+/Users/samanthamazzola/Projects/TestStringsJuly2018/TestStringsJuly2018/bin/Debug/TestStringsJuly2018.exe
+/Users/samanthamazzola/Projects/TestStringsJuly2018/TestStringsJuly2018/bin/Debug/TestStringsJuly2018.pdb
+/Users/samanthamazzola/Projects/TestStringsJuly2018/TestStringsJuly2018/obj/x86/Debug/TestStringsJuly2018.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Projects/TestStringsJuly2018/TestStringsJuly2018/obj/x86/Debug/TestStringsJuly2018.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Projects/TestStringsJuly2018/TestStringsJuly2018/obj/x86/Debug/TestStringsJuly2018.exe
+/Users/samanthamazzola/Projects/TestStringsJuly2018/TestStringsJuly2018/obj/x86/Debug/TestStringsJuly2018.pdb
