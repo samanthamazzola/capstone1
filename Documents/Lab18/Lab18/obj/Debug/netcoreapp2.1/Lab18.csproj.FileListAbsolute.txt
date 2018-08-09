@@ -1,0 +1,11 @@
+/Users/samanthamazzola/Documents/Lab18/Lab18/bin/Debug/netcoreapp2.1/Lab18.deps.json
+/Users/samanthamazzola/Documents/Lab18/Lab18/bin/Debug/netcoreapp2.1/Lab18.runtimeconfig.json
+/Users/samanthamazzola/Documents/Lab18/Lab18/bin/Debug/netcoreapp2.1/Lab18.runtimeconfig.dev.json
+/Users/samanthamazzola/Documents/Lab18/Lab18/bin/Debug/netcoreapp2.1/Lab18.dll
+/Users/samanthamazzola/Documents/Lab18/Lab18/bin/Debug/netcoreapp2.1/Lab18.pdb
+/Users/samanthamazzola/Documents/Lab18/Lab18/obj/Debug/netcoreapp2.1/Lab18.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Documents/Lab18/Lab18/obj/Debug/netcoreapp2.1/Lab18.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Documents/Lab18/Lab18/obj/Debug/netcoreapp2.1/Lab18.AssemblyInfoInputs.cache
+/Users/samanthamazzola/Documents/Lab18/Lab18/obj/Debug/netcoreapp2.1/Lab18.AssemblyInfo.cs
+/Users/samanthamazzola/Documents/Lab18/Lab18/obj/Debug/netcoreapp2.1/Lab18.dll
+/Users/samanthamazzola/Documents/Lab18/Lab18/obj/Debug/netcoreapp2.1/Lab18.pdb
