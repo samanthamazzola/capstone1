@@ -1,0 +1,11 @@
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/bin/Debug/netcoreapp2.1/Lab11.deps.json
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/bin/Debug/netcoreapp2.1/Lab11.runtimeconfig.json
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/bin/Debug/netcoreapp2.1/Lab11.runtimeconfig.dev.json
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/bin/Debug/netcoreapp2.1/Lab11.dll
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/bin/Debug/netcoreapp2.1/Lab11.pdb
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/obj/Debug/netcoreapp2.1/Lab11.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/obj/Debug/netcoreapp2.1/Lab11.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/obj/Debug/netcoreapp2.1/Lab11.AssemblyInfoInputs.cache
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/obj/Debug/netcoreapp2.1/Lab11.AssemblyInfo.cs
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/obj/Debug/netcoreapp2.1/Lab11.dll
+/Users/samanthamazzola/Documents/Projects/Lab11/Lab11/obj/Debug/netcoreapp2.1/Lab11.pdb
